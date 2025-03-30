@@ -1,0 +1,5 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><script>// Aquí puedes agregar funciones de JavaScript si es necesario.
+// En este caso, solo se usa para el ejemplo de un botón de "Descargar"
+function alertDownload() {
+    alert('DESCARGANDO A.P.K.A.CH.V.S');
+}</script>
